@@ -20,7 +20,7 @@ title                    : "이것저것 코딩해보는 블로그"
 title_separator          : "|"
 subtitle                 : "Hello World."
 name                     : "Metato"
-description              : "죽음은 삶의 대극으로서가 아니라 그 일부로서 존재하고 있다."
+description              : "HTML은 프로그래밍 언어가 아닙니다."
 url                      : "https://Kanghs0212.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,7 +113,7 @@ analytics:
 author:
   name             : "Metato"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "예시"
+  bio              : "죽음은 삶의 대극으로서가 아니라 그 일부로서 존재하고 있다."
   location         : "South Korea"
   email            : "rkdgustj1207@naver.com"
   links:
